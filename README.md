@@ -1,2 +1,2 @@
 # copylink
-Do from link to little
+Do little link
